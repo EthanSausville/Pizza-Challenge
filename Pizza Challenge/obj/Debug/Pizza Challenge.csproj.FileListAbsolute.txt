@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\bin\Pizza Challenge.dll.config
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\bin\Pizza Challenge.dll
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\bin\Pizza Challenge.pdb
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\obj\Debug\Pizza Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\obj\Debug\Pizza Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\obj\Debug\Pizza Challenge.dll
+C:\Users\Ethan\Documents\My Code\Pizza Challenge\Pizza Challenge\obj\Debug\Pizza Challenge.pdb
